@@ -1,0 +1,23 @@
+// Central point to combine all the SCSS partials
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import "bootstrap";
+
+// Utilities
+@import 'utils/mixins';
+
+// Base Styles
+@import 'base/global';
+@import 'base/typography';
+@import 'base/grid';
+
+// Layouts
+@import 'layout/section';
+@import 'layout/footer';
+@import 'layout/header';
+
+// Components
+//@import '';

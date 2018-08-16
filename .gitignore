@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+# dist folder
+dist
+
+# Dependency directory
+node_modules
+
+.DS_Store

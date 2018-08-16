@@ -1,0 +1,6 @@
+// Styles related to <footer> HTML element
+
+.footer{
+  	padding: rem($grid-gutter-width/2) rem($grid-gutter-width/2) rem($grid-gutter-width);
+  	color: $brand-black;
+}

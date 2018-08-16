@@ -1,0 +1,22 @@
+
+// SCSS Variables
+
+// Brand colours
+// Define colours used throught the site
+$brand-white: #fff;
+$brand-black: #000;
+
+// Gutters
+// Paddings and Margins
+$container-padding: 16px;
+$grid-gutter-width: 30px;
+
+
+// Define the maximum width of `.reduced-container` for different screen sizes.
+$reduced-container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 720px,
+  xl: 720px
+) !default;
+
